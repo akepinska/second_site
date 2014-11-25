@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href="/normalize.css" rel="stylesheet">
+	<style>
+	</style>
+		<title>Ada's page</title>
+	</head>
+	<body>
+	<header>
+		<h1>Hello world, it's Ada's page!</h1>
+	</header>
+	<h2>Things Ada likes:
+	<ol>
+		<li>Ponies</li>
+		<li>Doughnuts</li>
+		<li>Colour black</li>
+	</ol>
+<!-- a comment from Ada, shoutout! -->
+
+<article><a href="https://github.com">it's github!</a></article>
+</body>
